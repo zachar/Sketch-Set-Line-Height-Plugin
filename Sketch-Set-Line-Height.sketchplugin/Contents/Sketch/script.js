@@ -2,7 +2,7 @@ var onRun = function (context) {
   var doc = context.document;
   var selection = context.selection;
 
-  // Sets the line height as multiple of the font size (cmd l)
+  // Sets the line height as multiple of the font size (cmd j)
 
   var textLayers = [];
 

@@ -11,7 +11,7 @@
     {
       "name": "Set Line Height",
       "identifier": "set",
-      "shortcut": "cmd l",
+      "shortcut": "cmd j",
       "script": "script.js",
     }
   ],
